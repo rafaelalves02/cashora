@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Cashora.Repositories\Cashora.Repositories.csproj" />
+  </ItemGroup>
+
 </Project>

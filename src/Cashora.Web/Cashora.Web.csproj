@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Cashora.Services\Cashora.Services.csproj" />
+  </ItemGroup>
+
 </Project>
