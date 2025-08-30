@@ -8,3 +8,7 @@
 /src/Cashora.Web/obj
 /src/Cashora.Web/Cashora.Web.csproj.user
 /.vs
+/src/Cashora.Repositories/bin
+/src/Cashora.Repositories/obj
+/src/Cashora.Services/bin
+/src/Cashora.Services/obj
